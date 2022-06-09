@@ -7,6 +7,8 @@ El contenido es relevante a Bitcoin Lightning y no mayor a 250 palabras por info
 Se incluyen las referencias para profundizar el conocimiento.
 
 ## Listado de infografías
+![Imagen](https://github.com/LatiNodos/Infografias/blob/main/Visuales/Header/1.png)
+
 [1. Introducción](https://github.com/LatiNodos/Infografias/blob/main/Texto/1.%20Introducci%C3%B3n.md)
 
 [2. Vamos empezando](https://github.com/LatiNodos/Infografias/blob/main/Texto/2.%20Vamos%20empezando.md)
@@ -15,4 +17,5 @@ Se incluyen las referencias para profundizar el conocimiento.
 
 [4. Pagos en "La Lightning"](https://github.com/LatiNodos/Infografias/blob/main/Texto/4.%20Pagos%20en%20La%20Lightning.md)
 
-![Imagen](https://github.com/LatiNodos/Infografias/blob/main/Visuales/1%20-%20Introduccion.png)
+
+[![Footer](https://github.com/LatiNodos/Infografias/blob/main/Visuales/Header/2.png)](https://tallyco.in/s/6get3r/)
