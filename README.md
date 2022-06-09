@@ -7,7 +7,7 @@ El contenido es relevante a Bitcoin Lightning y no mayor a 250 palabras por info
 Se incluyen las referencias para profundizar el conocimiento.
 
 ## Listado de infografías
-![Imagen](https://github.com/LatiNodos/Infografias/blob/main/Visuales/Header/1.png)
+[![Header Bitcoin Lightning LatiNodos](https://github.com/LatiNodos/Infografias/blob/main/Visuales/Header/1.png)](https://latinodos.social)
 
 [1. Introducción](https://github.com/LatiNodos/Infografias/blob/main/Texto/1.%20Introducci%C3%B3n.md)
 
