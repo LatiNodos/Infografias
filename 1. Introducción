@@ -1,0 +1,20 @@
+#Introducción
+
+Esta cápsula presenta una breve introducción a Lightning Network (LN), qué es y para qué sirve. 
+
+LN significa Red Relámpago por sus siglas en inglés y es la segunda capa* en el protocolo de  Bitcoin. LN busca resolver el reto de "escalar" Bitcoin.
+
+*es decir una solución basada sobre...
+
+Los pagos enviados a través de la red Lightning se transmiten entre pares de nodos y no son visibles para todo el mundo, por lo que la privacidad es mucho mayor.
+
+Lightning no es un token o una moneda independiente, es Bitcoin.
+Lightning no requiere almacenar cada pago en la capa uno - por eso utiliza menos recursos y es más rápido y barato que las transacciones en la capa uno.
+
+Existen distinto usos y aplicaciones
+que tanto comerciantes, consumidores, la industria del entretenimiento y muchas más podrán explorar gracias a la alta velocidad y bajo costo de los pagos hechos a través de LN.
+
+Protocolo de equidad: Es el concepto fundamental sobre el que se basa tanto a Bitcoin como la Red Lightning, donde los resultados justos no son impuestos por ninguna autoridad - sino emergen naturalmente por las "reglas" y la lógica del código.
+
+LN sigue en una etapa muy joveny gracias al desarrollo técnico y práctico - están en camino nuevas soluciones geniales.
+¡Únete y participa en esta aventura!
