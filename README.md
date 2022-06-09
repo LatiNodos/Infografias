@@ -9,8 +9,12 @@ Se incluyen las referencias para profundizar el conocimiento.
 ## Listado de infografías
 [1. Introducción](https://github.com/LatiNodos/Infografias/blob/main/Texto/1.%20Introducci%C3%B3n)
 
+![Imagen](https://github.com/LatiNodos/Infografias/blob/main/Visuales/1%20-%20Introduccion.png)
+
+
 2. Vamos empezando
 
 4. Software para Nodos Lightning
 
 5. Pagos en "La Lightning"
+
